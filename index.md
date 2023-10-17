@@ -3,3 +3,6 @@
 
 **This is a bold statement** 
 
+`this is highlighted code`
+
+
